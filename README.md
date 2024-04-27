@@ -36,6 +36,7 @@ aspect.
 ### The Agent(s)
 * Mini-Max Search
 * Evaluation based on more advantageous tile position available
+* Two agents (1 & 2 on board)
 
 ### Agents' Performance
 * Estimated Performance
@@ -53,3 +54,5 @@ aspect.
 * Add merging of hotels
 * Add in other aspects of the game like money, purchasing stocks, and trading/selling/saving stocks with a merge
 
+
+![Alt text](boardWithAIPlacement.png)
